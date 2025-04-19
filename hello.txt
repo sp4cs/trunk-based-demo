@@ -5,3 +5,4 @@ June feature A
 July feature A
 August feature A
 September feature A
+October: feature o
