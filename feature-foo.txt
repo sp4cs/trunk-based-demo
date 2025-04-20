@@ -1,1 +1,2 @@
 initial commit for feature foo
+updated commit with new changes
